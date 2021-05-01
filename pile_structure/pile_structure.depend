@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619900155 source:c:\users\caio_\desktop\pile_stack\pile_structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ctr.h"
+
+1619895278 c:\users\caio_\desktop\pile_stack\pile_structure\stack_ctr.h
+
+1619900155 source:c:\users\caio_\desktop\pile_stack\pile_structure\stack_ctr.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+	"stack_ctr.h"
+
